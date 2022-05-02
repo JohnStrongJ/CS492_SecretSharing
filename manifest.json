@@ -1,0 +1,19 @@
+{
+  "name": "Shamir's Secret Sharing",
+  "description": "Generate keys and secrets",
+  "version": "1.0",
+  "manifest_version": 3,
+
+  "permissions": [
+    "storage",
+    "tabs",
+    "downloads"
+  ],
+
+
+  "action": {
+    "default_popup": "popup.html"
+  }
+
+
+}
